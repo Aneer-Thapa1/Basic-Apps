@@ -13,6 +13,8 @@ export default function App() {
           {/* This is where the tasks will go! */}
           <Task text={"task1"} />
           <Task text={"task2"} />
+          <Task text={"task2"} />
+          <Task text={"task2"} />
         </View>
       </View>
     </View>
